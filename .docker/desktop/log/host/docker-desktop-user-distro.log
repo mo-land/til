@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------->8
+[2025-01-09T10:47:44.262234713Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/ohpea/.docker/contexts
+[2025-01-09T10:47:44.272607893Z][docker-desktop-user-distro] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/ohpea/.docker/contexts os.Symlink <HOME>/.docker/contexts -> /mnt/c/Users/ohpea/.docker/contexts
+-------------------------------------------------------------------------------->8
+[2025-01-09T10:47:44.543847269Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/ohpea/.aws, linkPath = <HOME>/.aws
+-------------------------------------------------------------------------------->8
+[2025-01-09T10:47:44.875032955Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/ohpea/.azure, linkPath = <HOME>/.azure
+-------------------------------------------------------------------------------->8
+[2025-01-09T10:47:45.161366571Z][docker-desktop-user-distro] linkPathToWindows windowsPath = /mnt/c/Users/ohpea/.docker/features.json, linkPath = ~/.docker/features.json
